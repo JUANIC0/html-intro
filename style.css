@@ -2,7 +2,7 @@
 max-width: 35%;
 margin: 0 auto;
 border: solid 2px;
-color: rgb(0, 8, 242);
+color: rgb(238, 238, 242);
 padding: 100px;
 background-color: rgb(25, 25, 25);
 border-width: 5px;
@@ -10,7 +10,7 @@ border-width: 5px;
 
 .borde {
 border-bottom: solid 5px ;
-color: blue;
+color: rgb(245, 245, 247);
 padding-top: 20px;
 
 
@@ -63,3 +63,15 @@ width: 80px;
 height: 80px;
 
 }
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
